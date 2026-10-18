@@ -202,21 +202,13 @@ git remote add origin <your-repo-url>
 git push -u origin main
 ```
 
-Do real, small commits while you build — the rubric checks history, not one big
-push at the end.
 
-## Still to do before submitting Part 2
 
-- Push to your own GitHub repo on a feature branch (e.g. `KhanbanTasks`) and
-  submit the link on Arc.
-- Record the unlisted YouTube walkthrough (your own voice, no AI voice):
-  explain the classes, the login gate, the menu/while loop, the message for
-  loop, the ID/hash logic, JSON storage, and show the tests passing.
-- Fill in the assessment cover sheet with your name and student number.
-- Confirm the GitHub Actions run is green.
 
-## Next (Part 3 preview)
 
-Part 3 adds the arrays of sent / disregarded / stored messages, a fourth
-"Stored Messages" menu option, and the reporting features. `MessageStore.readAll()`
-already reads the JSON file back, ready for that step.
+
+
+
+
+
+
